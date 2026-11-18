@@ -1,0 +1,14 @@
+:root{
+  --colorPrincipal:#F3E1E3;
+  --colorTexto:#B6717C;
+  --colorFondo:#ECCDD1;
+  --colorSecundario:#A88746;
+  --blanco:#ffffff;
+  --negro:#000000;
+  --colorSombra:#acacac;
+  
+  --fuentePrincipal:"Lora", serif;
+  --fuenteCursiva:"Great Vibes", cursive;
+  --fuenteSecundaria:"Cinzel", serif;
+  --fuenteTerciaria:"Playfair Display", serif;
+}
